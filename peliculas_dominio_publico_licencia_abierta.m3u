@@ -1,0 +1,432 @@
+#EXTM3U
+# Lista separada de películas. Verificar la licencia de cada archivo en su fuente.
+
+# ===== PELÍCULAS CLÁSICAS (fuentes originales) =====
+#EXTINF:-1 group-title="Películas clásicas",20,000 Leagues Under the Sea (1916)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/20000LeaguesUndertheSea/20000_Leagues_Under_the_Sea_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",Steamboat Bill, Jr. (1928)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/SteamboatBillJr/Steamboat_Bill.Jr_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Kid (1921)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/TheKid1080p/The_Kid_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The General (1926)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/The_General_Buster_Keaton/The_General_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Great Train Robbery (1903)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/TheGreatTrainRobbery_555/TheGreatTrainRobbery_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Golem (1920)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/TheGolem_893/TheGolem_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Phantom of the Opera (1925)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/ThePhantomoftheOpera/Phantom_of_the_Opera_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Wizard of Oz (1925)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/TheWizardOfOz1925/LarrySemonsWizardOfOzsilent1925.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Wonderful Wizard of Oz (1910)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/The_Wonderful_Wizard_of_Oz/WizardOfOz1910_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Last of the Mohicans (1920)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/PublicdomainTheLastoftheMohicans/Last_of_the_Mohicans_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Cheat (1915)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/The_Cheat/The_Cheat_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Electric House (1922)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/TheElectricHouse/The_Electric_House_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Blacksmith (1922)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/TheBlacksmith/The_Blacksmith_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Goat (1921)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/TheGoat/The_Goat_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Playhouse (1921)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/ThePlayhouse/The_Playhouse_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Paleface (1922)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/ThePaleface/The_Paleface_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Conquering Power (1921)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/TheConqueringPower/TheConqueringPowerrexIngram1921RudolphValentinoAliceTerry.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Phantom Carriage (1921)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/ThePhantomCarriage/PhantomCarriage_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Sheik (1921)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/TheSheik/TheSheik_512kb.mp4
+
+#EXTINF:-1 group-title="Películas clásicas",The Fall of the House of Usher (1928)
+#LICENSE=Verificar licencia en la fuente
+https://archive.org/download/TheFallOfTheHouseOfUsher1928/The-Fall-of-the-House-of-Usher_512kb.mp4
+
+# ===== WIKIMEDIA COMMONS - VIDEOS DE PELÍCULAS EN DOMINIO PÚBLICO =====
+#EXTINF:-1 group-title="Películas - Dominio Público","Afsoongar", 1953, Pars Film Production. "فیلم ایرانی "افسونگر
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%22Afsoongar%22%2C%201953%2C%20Pars%20Film%20Production.%20%22%D9%81%DB%8C%D9%84%D9%85%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%DB%8C%20%22%D8%A7%D9%81%D8%B3%D9%88%D9%86%DA%AF%D8%B1.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público","Osta Karim Nokaretim", 1973, Pars Film Production.
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%22Osta%20Karim%20Nokaretim%22%2C%201973%2C%20Pars%20Film%20Production..webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público","The Thief & The Cop" Pars Film Productions, 1969." دزد و پاسبان"
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%22The%20Thief%20%26%20The%20Cop%22%20Pars%20Film%20Productions%2C%201969.%22%20%D8%AF%D8%B2%D8%AF%20%D9%88%20%D9%BE%D8%A7%D8%B3%D8%A8%D8%A7%D9%86%22.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",1944 Иван Грозный
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/1944%20%D0%98%D0%B2%D0%B0%D0%BD%20%D0%93%D1%80%D0%BE%D0%B7%D0%BD%D1%8B%D0%B9.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",1954 Episode of the TV series "Super Circus"
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/1954%20Episode%20of%20the%20TV%20series%20%22Super%20Circus%22.ogv
+
+#EXTINF:-1 group-title="Películas - Dominio Público",1955直上云霄
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/1955%E7%9B%B4%E4%B8%8A%E4%BA%91%E9%9C%84.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",1957纪录片祝贺
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/1957%E7%BA%AA%E5%BD%95%E7%89%87%E7%A5%9D%E8%B4%BA.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",1966年国庆
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/1966%E5%B9%B4%E5%9B%BD%E5%BA%86.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",1969年国庆
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/1969%E5%B9%B4%E5%9B%BD%E5%BA%86.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",1970年国庆
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/1970%E5%B9%B4%E5%9B%BD%E5%BA%86.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Abbas Kiarostami - The Bread and Alley (1970)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Abbas%20Kiarostami%20-%20The%20Bread%20and%20Alley%20%281970%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Balloon Land by Ub Iwerks, 1935
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Balloon%20Land%20by%20Ub%20Iwerks%2C%201935.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Bambi Meets Godzilla 1969
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Bambi%20Meets%20Godzilla%201969.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",The Battling Kangaroo -A Fox Animal Comedy 1926
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Battling%20Kangaroo%20-A%20Fox%20Animal%20Comedy%201926.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Blacksmith Scene (1893)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Blacksmith%20Scene%20%281893%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Blacksmith Scene
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Blacksmith%20Scene.ogv
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Chandidas, 1934
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Chandidas%2C%201934.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Commissioner Higgins visits Ahmedabad's girl school
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Commissioner%20Higgins%20visits%20Ahmedabad%27s%20girl%20school.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Dickson Greeting
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Dickson%20Greeting.ogv
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Diler Jigar (1931)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Diler%20Jigar%20%281931%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",FIRST AFGHAN MOVIE مانند عقاب "Like Eagles"
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/FIRST%20AFGHAN%20MOVIE%20%D9%85%D8%A7%D9%86%D9%86%D8%AF%20%D8%B9%D9%82%D8%A7%D8%A8%20%22Like%20Eagles%22.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",From Hand to Mouth (1919)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/From%20Hand%20to%20Mouth%20%281919%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby - All's Well (1941)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20-%20All%27s%20Well%20%281941%29.ogv
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby - Fire Cheese (1941), a Max Fleischer animated cartoon
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20-%20Fire%20Cheese%20%281941%29%2C%20a%20Max%20Fleischer%20animated%20cartoon.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby - Fire Cheese (1941)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20-%20Fire%20Cheese%20%281941%29.ogv
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby - It s a Hap Hap Happy Day (1941) by Dave and Max Fleischer
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20-%20It%20s%20a%20Hap%20Hap%20Happy%20Day%20%281941%29%20by%20Dave%20and%20Max%20Fleischer.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby - King for a Day (1940)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20-%20King%20for%20a%20Day%20%281940%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby - Swing Cleaning (1941) by Dave and Max Fleischer
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20-%20Swing%20Cleaning%20%281941%29%20by%20Dave%20and%20Max%20Fleischer.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby - Swing Cleaning (1941), a Max Fleischer animated cartoon
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20-%20Swing%20Cleaning%20%281941%29%2C%20a%20Max%20Fleischer%20animated%20cartoon.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby - Swing Cleaning
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20-%20Swing%20Cleaning.ogv
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby - The Constable (1940) by Dave and Max Fleischer
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20-%20The%20Constable%20%281940%29%20by%20Dave%20and%20Max%20Fleischer.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby - Two for the Zoo (1941), by Dave and Max Fleischer
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20-%20Two%20for%20the%20Zoo%20%281941%29%2C%20by%20Dave%20and%20Max%20Fleischer.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby All's Well (1941) by Dave and Max Fleischer, Dailymotion
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20All%27s%20Well%20%281941%29%20by%20Dave%20and%20Max%20Fleischer%2C%20Dailymotion.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby Fire Cheese (1941) by Dave and Max Fleischer, Dailymotion
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20Fire%20Cheese%20%281941%29%20by%20Dave%20and%20Max%20Fleischer%2C%20Dailymotion.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby Fire Cheese (1941) by Dave and Max Fleischer
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20Fire%20Cheese%20%281941%29%20by%20Dave%20and%20Max%20Fleischer.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby Goes Fishing (1941) by Dave and Max Fleischer
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20Goes%20Fishing%20%281941%29%20by%20Dave%20and%20Max%20Fleischer.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby Goes Fishing (1941)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20Goes%20Fishing%20%281941%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Gabby Goes Fishing
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Gabby%20Goes%20Fishing.ogv
+
+#EXTINF:-1 group-title="Películas - Dominio Público",His Royal Slyness (1920)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/His%20Royal%20Slyness%20%281920%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",The House Is Black خانه سیاه است
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20House%20Is%20Black%20%D8%AE%D8%A7%D9%86%D9%87%20%D8%B3%DB%8C%D8%A7%D9%87%20%D8%A7%D8%B3%D8%AA.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Jamail Babu (1931)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Jamail%20Babu%20%281931%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Kalanka Bhanjan (1933)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Kalanka%20Bhanjan%20%281933%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",The Little Princess (1939)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Little%20Princess%20%281939%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Love Laughs at Andy Hardy (1946)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Love%20Laughs%20at%20Andy%20Hardy%20%281946%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Mad Hatter ( Columbia Screen Gems, 1940)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Mad%20Hatter%20%28%20Columbia%20Screen%20Gems%2C%201940%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Manos The Hands Of Fate (1966) by Harold P. Warren (Restoration by Ben Solovey) - Full HD 1080p
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Manos%20The%20Hands%20Of%20Fate%20%281966%29%20by%20Harold%20P.%20Warren%20%28Restoration%20by%20Ben%20Solovey%29%20-%20Full%20HD%201080p.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Men Boxing
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Men%20Boxing.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Short Subject⧸Mickey Mouse in Vietnam (1969, silent version)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Short%20Subject%E2%A7%B8Mickey%20Mouse%20in%20Vietnam%20%281969%2C%20silent%20version%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Mickey Mouse in Vietnam
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Mickey%20Mouse%20in%20Vietnam.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Muraliwala (1927)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Muraliwala%20%281927%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Newark Athlete (1891)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Newark%20Athlete%20%281891%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Out West 1918, Fatty Arbuckle, Buster Keaton
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Out%20West%201918%2C%20Fatty%20Arbuckle%2C%20Buster%20Keaton.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Popeye - Aladdin and His Wonderful Lamp (1939) (Remastered) (HD 1080p) - Margie Hines
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Popeye%20-%20Aladdin%20and%20His%20Wonderful%20Lamp%20%281939%29%20%28Remastered%29%20%28HD%201080p%29%20-%20Margie%20Hines.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Popeye The Sailor - Aladdin and His Wonderful Lamp (1939)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Popeye%20The%20Sailor%20-%20Aladdin%20and%20His%20Wonderful%20Lamp%20%281939%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Popeye The Sailor - Ancient Fistory (Full Episode - High Quality)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Popeye%20The%20Sailor%20-%20Ancient%20Fistory%20%28Full%20Episode%20-%20High%20Quality%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Sati Savitri (1927)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Sati%20Savitri%20%281927%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Shiraz (1928)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Shiraz%20%281928%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Star Theatre
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Star%20Theatre.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Sukanya Savitri (1922)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Sukanya%20Savitri%20%281922%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Susie the Little Blue Coupe (no audio)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Susie%20the%20Little%20Blue%20Coupe%20%28no%20audio%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",The Catechist of Kil-Arni (1923)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Catechist%20of%20Kil-Arni%20%281923%29.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",The Fast and the Furious (1954) by John Ireland
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Fast%20and%20the%20Furious%20%281954%29%20by%20John%20Ireland.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",The Little Princess (1939) full
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Little%20Princess%20%281939%29%20full.ogv
+
+#EXTINF:-1 group-title="Películas - Dominio Público",Uncle Walt 16mm
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/Uncle%20Walt%2016mm.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",The Wonderful Wizard of Oz (1910)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/The%20Wonderful%20Wizard%20of%20Oz%20%281910%29.ogv
+
+#EXTINF:-1 group-title="Películas - Dominio Público",دزد عروسکها
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%D8%AF%D8%B2%D8%AF%20%D8%B9%D8%B1%D9%88%D8%B3%DA%A9%D9%87%D8%A7.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",طلوع جدی (۱۳۴۳) - احمد فاروقی قاجار
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%D8%B7%D9%84%D9%88%D8%B9%20%D8%AC%D8%AF%DB%8C%20%28%DB%B1%DB%B3%DB%B4%DB%B3%29%20-%20%D8%A7%D8%AD%D9%85%D8%AF%20%D9%81%D8%A7%D8%B1%D9%88%D9%82%DB%8C%20%D9%82%D8%A7%D8%AC%D8%A7%D8%B1.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",فیلم سینمایی باشو ، غریبه‌ای کوچک - براساس واقعیت - جنگ ایران و عراق
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%D9%81%DB%8C%D9%84%D9%85%20%D8%B3%DB%8C%D9%86%D9%85%D8%A7%DB%8C%DB%8C%20%D8%A8%D8%A7%D8%B4%D9%88%20%D8%8C%20%D8%BA%D8%B1%DB%8C%D8%A8%D9%87%E2%80%8C%D8%A7%DB%8C%20%DA%A9%D9%88%DA%86%DA%A9%20-%20%D8%A8%D8%B1%D8%A7%D8%B3%D8%A7%D8%B3%20%D9%88%D8%A7%D9%82%D8%B9%DB%8C%D8%AA%20-%20%D8%AC%D9%86%DA%AF%20%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%20%D9%88%20%D8%B9%D8%B1%D8%A7%D9%82.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",پول حلال (۱۳۳۹)
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%D9%BE%D9%88%D9%84%20%D8%AD%D9%84%D8%A7%D9%84%20%28%DB%B1%DB%B3%DB%B3%DB%B9%29.mpg
+
+#EXTINF:-1 group-title="Películas - Dominio Público",三毛流浪记 1958
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E4%B8%89%E6%AF%9B%E6%B5%81%E6%B5%AA%E8%AE%B0%201958.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",中国共产党第九次全国代表大会
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E4%B8%AD%E5%9B%BD%E5%85%B1%E4%BA%A7%E5%85%9A%E7%AC%AC%E4%B9%9D%E6%AC%A1%E5%85%A8%E5%9B%BD%E4%BB%A3%E8%A1%A8%E5%A4%A7%E4%BC%9A.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",中國人民的勝利
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E4%B8%AD%E5%9C%8B%E4%BA%BA%E6%B0%91%E7%9A%84%E5%8B%9D%E5%88%A9.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",五亿农民的方向
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E4%BA%94%E4%BA%BF%E5%86%9C%E6%B0%91%E7%9A%84%E6%96%B9%E5%90%91.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",八百壮士1938
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E5%85%AB%E7%99%BE%E5%A3%AE%E5%A3%AB1938.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",周总理访问苏联
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E5%91%A8%E6%80%BB%E7%90%86%E8%AE%BF%E9%97%AE%E8%8B%8F%E8%81%94.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",宇宙高歌东方红
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E5%AE%87%E5%AE%99%E9%AB%98%E6%AD%8C%E4%B8%9C%E6%96%B9%E7%BA%A2.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",对原子武器的防护
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E5%AF%B9%E5%8E%9F%E5%AD%90%E6%AD%A6%E5%99%A8%E7%9A%84%E9%98%B2%E6%8A%A4.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",广阔天地大有作为
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E5%B9%BF%E9%98%94%E5%A4%A9%E5%9C%B0%E5%A4%A7%E6%9C%89%E4%BD%9C%E4%B8%BA.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",打倒新沙皇
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E6%89%93%E5%80%92%E6%96%B0%E6%B2%99%E7%9A%87.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",春节大联欢
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E6%98%A5%E8%8A%82%E5%A4%A7%E8%81%94%E6%AC%A2.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",毛主席接见红卫兵和革命师生
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E6%AF%9B%E4%B8%BB%E5%B8%AD%E6%8E%A5%E8%A7%81%E7%BA%A2%E5%8D%AB%E5%85%B5%E5%92%8C%E9%9D%A9%E5%91%BD%E5%B8%88%E7%94%9F.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",毛主席第三次接见百万革命小将
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E6%AF%9B%E4%B8%BB%E5%B8%AD%E7%AC%AC%E4%B8%89%E6%AC%A1%E6%8E%A5%E8%A7%81%E7%99%BE%E4%B8%87%E9%9D%A9%E5%91%BD%E5%B0%8F%E5%B0%86.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",毛主席第五、第六次检阅文化革命大军
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E6%AF%9B%E4%B8%BB%E5%B8%AD%E7%AC%AC%E4%BA%94%E3%80%81%E7%AC%AC%E5%85%AD%E6%AC%A1%E6%A3%80%E9%98%85%E6%96%87%E5%8C%96%E9%9D%A9%E5%91%BD%E5%A4%A7%E5%86%9B.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",毛主席第八次检阅文化革命大军
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E6%AF%9B%E4%B8%BB%E5%B8%AD%E7%AC%AC%E5%85%AB%E6%AC%A1%E6%A3%80%E9%98%85%E6%96%87%E5%8C%96%E9%9D%A9%E5%91%BD%E5%A4%A7%E5%86%9B.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",永远怀念苏军
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E6%B0%B8%E8%BF%9C%E6%80%80%E5%BF%B5%E8%8B%8F%E5%86%9B.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",瓮中捉鳖 Weng Zhong Zhuo Bie
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E7%93%AE%E4%B8%AD%E6%8D%89%E9%B3%96%20Weng%20Zhong%20Zhuo%20Bie.webm
+
+#EXTINF:-1 group-title="Películas - Dominio Público",首都百货大楼
+#LICENSE=Public Domain category; revisar página del archivo
+https://commons.wikimedia.org/wiki/Special:Redirect/file/%E9%A6%96%E9%83%BD%E7%99%BE%E8%B4%A7%E5%A4%A7%E6%A5%BC.webm
